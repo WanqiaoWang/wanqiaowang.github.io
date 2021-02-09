@@ -1,6 +1,15 @@
 body {
 
 }
+
+nav {
+  width: 10%;
+  height: 72px; 
+  background: #FCD8A9;
+  padding-left:150px;
+}
+
+
 h1 {
   color: rgb(12,7,93);
   font-family:georgia;
@@ -8,7 +17,7 @@ h1 {
 }
 
 h2 {
-  
+
   font-size: 24px;
   font-style:normal;
 }
