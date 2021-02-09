@@ -3,9 +3,16 @@ body {
 }
 h1 {
   color: blue;
-  font-family:serif;
+  font-family;
   font-size: 36px;
 }
+
+h2 {
+  color: blue;
+  font-family;
+  font-size: 36px;
+}
+
 p {
   color: red;
 }
